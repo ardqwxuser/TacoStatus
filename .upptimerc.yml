@@ -7,8 +7,6 @@ sites:
     url: https://tacosmp.com
   - name: TacoProject Site
     url: https://tacoproject.com.tr
-  - name: Diğer
-    url: https://news.ycombinator.com
   - name: TacoSMP Minecraft
     url: https://api.mcsrvstat.us/2/mc.tacosmp.com
     port: 80
