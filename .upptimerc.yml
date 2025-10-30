@@ -29,6 +29,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/ardqwxuser/TacoStatus
+  skipdelays: true # Bildirimlerin gecikme olmadan hemen gönderilmesini sağlar
+
+notifications:
+  - type: discord
+    webhook: https://discord.com/api/webhooks/1433413953513590918/8vnVmgzF3Wd6TJy0-Enx6Eppt87e-EcRerr2ae4cQlz3EX6JrfZ9jWpQkNpAwBIlF6wU
+    priority: "all"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
