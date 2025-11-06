@@ -31,7 +31,7 @@ status-website:
 
 notifications:
   - type: discord
-    webhook: https://discord.com/api/webhooks/1433413953513590918/8vnVmgzF3Wd6TJy0-Enx6Eppt87e-EcRerr2ae4cQlz3EX6JrfZ9jWpQkNpAwBIlF6wU
+    webhook: 
     priority: "all"
 
 # Upptime also supports notifications, assigning issues, and more
