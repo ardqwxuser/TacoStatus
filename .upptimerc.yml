@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tacoproject.com.tr
-  # baseUrl: /your-repo-name
+  baseUrl: /
   logoUrl: https://tacoproject.com.tr/app/main/theme/assets/img/uploads/2c547b861cbb8410138f80ff0077cadd.png?v=1761821050
   name: TacoStatus
   introTitle: "**Sunucuların Durum Sayfası** — Web siteleri ve Oyun sunucularını anlık olarak izler."
