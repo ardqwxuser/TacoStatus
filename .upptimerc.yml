@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://tacoproject.com.tr/app/main/theme/assets/img/uploads/2c547b861cbb8410138f80ff0077cadd.png?v=1761821050
   name: TacoStatus
   introTitle: "**Servislerin Durum Sayfası** — Web siteleri ve Minecraft sunucularını anlık olarak izler."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: 
   navbar:
     - title: Status
       href: /
