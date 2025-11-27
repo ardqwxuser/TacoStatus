@@ -27,6 +27,6 @@ status-website:
 
 notifications:
   - type: discord
-    webhook: 
+    webhook: null
     priority: null
 
