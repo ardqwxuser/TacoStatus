@@ -4,7 +4,7 @@
     "url": "https://tacosmp.com",
     "icon": "https://icons.duckduckgo.com/ip3/tacosmp.com.ico",
     "slug": "taco-smp-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2361,
     "timeDay": 1313,
-    "timeWeek": 1482,
+    "timeWeek": 1423,
     "timeMonth": 1683,
     "timeYear": 2361,
     "dailyMinutesDown": {}
