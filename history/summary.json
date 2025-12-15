@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1673,
     "timeDay": 1262,
-    "timeWeek": 1627,
+    "timeWeek": 1571,
     "timeMonth": 1694,
     "timeYear": 1673,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://tacoproject.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/tacoproject.com.tr.ico",
     "slug": "taco-project-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 2282,
     "timeDay": 1571,
     "timeWeek": 1547,
-    "timeMonth": 1608,
+    "timeMonth": 1605,
     "timeYear": 2282,
     "dailyMinutesDown": {}
   },
